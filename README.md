@@ -70,6 +70,6 @@ Daha sonra kullanıcıdan komut alınır ve analiz edilerek ilgili işlem gerçe
 
 ## 🧠 Geliştirici
 
-- **Efekan Öğmen**
+- **LyroXyptos**
 
 ---
